@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about ... anything!
 - 📪 How to reach me >>> gschmithalter14@gmail.com
-<br />
+
 ---
 
 #### Technologies I use
