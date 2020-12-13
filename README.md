@@ -1,6 +1,6 @@
 ### Hi there, I'm Gui 👋
 
-- 👑 I enjoy working on end to end (UI, Model, Database) software design and application development using modern web technologies.
+- 🙌 I enjoy working on end to end (UI, Model, Database) software design and application development using modern web technologies.
 - 🎧 I’m currently working on [Ongaku](https://github.com/ritammv/ongaku), a music sharing community app
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about ... anything!
